@@ -88,10 +88,6 @@ const michael = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Klooy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Klooy&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Klooy&theme=tokyonight&hide_border=true)
 
@@ -99,17 +95,18 @@ const michael = {
 
 ---
 
-## 🏆 Certificaciones Profesionales
-
 <div align="center">
 
-| Certificación | Organización | Estado |
+| Certification | Organization | Verify |
 |---------------|--------------|--------|
-| 🛡️ **Cybersecurity Professional Certificate** | Google | ✅ Certificado |
-| 🔙 **Back-End Developer Professional Certificate** | Meta | ✅ Certificado |
-| 🎨 **Front-End Developer Professional Certificate** | Meta | ✅ Certificado |
-| 💼 **Full Stack Software Developer** | IBM | ✅ Certificado |
-| 🖥️ **IT Support Professional Certificate** | Google | ✅ Certificado |
+| 🖥️ **Google IT Support Professional Certificate** | Google | [View](https://coursera.org/verify/69YGBHYW1D7L) |
+| 📊 **Google Data Analytics Professional Certificate** | Google | [View](https://coursera.org/verify/94TJ9HTJMA2R) |
+| 🤖 **Google AI Essentials** | Google | [View](https://coursera.org/verify/IS8KCIU51FRA) |
+| 🌐 **Introduction to Web Development** | Coursera |
+| 💻 **Programming Fundamentals** | Coursera |
+| 🚀 **Web Application Development** | Coursera |
+
+> Certifications focused on IT support, data analytics, artificial intelligence, and full-stack web development, aligned with industry best practices.
 
 </div>
 
@@ -141,9 +138,9 @@ const michael = {
 🔭 Actualmente trabajando en: Proyectos Full Stack con React y .NET
 🌱 Aprendiendo: Cloud Computing y DevOps
 👯 Buscando colaborar en: Proyectos Open Source
-💬 Pregúntame sobre: React, Node.js, C#, ASP.NET, Cybersecurity
+💬 Pregúntame sobre: React, Node.js, ASP.NET, Cybersecurity
 📫 Contacto: mfcorrales26@gmail.com
-⚡ Dato curioso: ¡Me encanta resolver problemas complejos con código limpio!
+⚡ Dato curioso: ¡Me encanta resolver problemas complejos!
 ```
 
 ---
