@@ -20,7 +20,9 @@
 ```typescript
 const michael = {
     code: ["JavaScript", "TypeScript", "C#", "SQL", "HTML", "CSS"],
+
     askMeAbout: ["web dev", "tech", "app dev", "cybersecurity"],
+
     technologies: {
         frontEnd: {
             js: ["React", "Redux", "Vite"],
@@ -61,7 +63,6 @@ const michael = {
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Database & Cloud
